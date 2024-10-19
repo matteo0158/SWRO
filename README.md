@@ -1,4 +1,4 @@
-[![GitHub Release](https://img.shields.io/github/v/release/matteo0158/SWRO?style=for-the-badge)](#) [![Static Badge](https://img.shields.io/badge/SUPPORT-WINDOWS%20ONLY-blue?style=for-the-badge)](#) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/matteo0158/speedrunners_tools/total?style=for-the-badge)](#)
+[![GitHub Release](https://img.shields.io/github/v/release/matteo0158/SWRO?style=for-the-badge)](#) [![Static Badge](https://img.shields.io/badge/SUPPORT-WINDOWS%20ONLY-blue?style=for-the-badge)](#) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/matteo0158/SWRO/total?style=for-the-badge)](#)
  [![Button Click](https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge&color=%23009e30)](https://github.com/matteo0158/SWRO/releases/latest)
 
 # SWRO
